@@ -50,7 +50,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass></mainClass>
+                    <mainClass>com.spike.myshop.web.admin.WebAdminApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
